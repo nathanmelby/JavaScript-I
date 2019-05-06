@@ -86,7 +86,7 @@ console.log(Antonietta.gender)
 
 // Antonietta loves math, give her the ability to multiply two numbers together and return the product. Use the console.log provided as a hint.
 //console.log(antonietta.multiplyNums(3,4));
-
+Antonietta.play = function(activity)
 // Const multiplyNums = (a,b) => a * b;
 
 // console.log(antonietta.multiplyNums(3,4));
